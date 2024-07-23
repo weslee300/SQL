@@ -1,5 +1,4 @@
-
-33CREATE TABLE superstore (
+CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
     item_name TEXT,
     category TEXT,
